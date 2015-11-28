@@ -1,3 +1,8 @@
+####################################################################
+# Cloned from: https://github.com/thedataincubator/flask-demo.git
+#    11/27/2015
+####################################################################
+
 # Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
